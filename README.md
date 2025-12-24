@@ -1,36 +1,64 @@
-# ¡Hola! Soy Oscar Mansur 👋
+# <p align="center">Hi, I'm Oscar Mansur 👋</p>
 
-### 👨‍💻 Sobre mí
-Soy un apasionado del desarrollo de software enfocado en crear soluciones eficientes y elegantes. Me encanta aprender nuevas tecnologías y colaborar en proyectos de código abierto.
-
-- 🔭 **Actualmente trabajando en:** [Nombre de tu proyecto actual]
-- 🌱 **Aprendiendo:** [Tecnología que estés estudiando]
-- 💬 **Pregúntame sobre:** [Tus fuertes, ej: React, Python]
-- ⚡ **Dato curioso:** Me apasiona el mundo del **cine** 🎬 y disfruto mucho de los **videojuegos** 🎮 en mi tiempo libre.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Developer;JavaScript+Enthusiast;Movie+Lover+%26+Gamer" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 👨‍💻 About Me
 
-| Categoría | Herramientas |
-| :--- | :--- |
-| **Lenguajes** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Frameworks** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+I am a software developer focused on building clean, efficient, and scalable solutions. My core expertise lies in **JavaScript**, which I use as my primary tool to bridge the gap between complex problems and elegant code.
 
----
-
-### 📊 Mis Estadísticas de GitHub
-
-![Estadísticas de Oscar](https://github-readme-stats.vercel.app/api?username=oscarmansur&show_icons=true&theme=tokyonight&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmansur&layout=compact&theme=tokyonight)
+- 🔭 **Focus:** Crafting high-quality web applications and exploring modern architectures.
+- ⚡ **Fun Fact:** Beyond the terminal, I’m a huge **cinema** 🎬 buff and an avid **gamer** 🎮.
+- 💬 **Ask me about:** JavaScript, React, Vue, or C#.
 
 ---
 
-### 📫 ¡Conectemos!
+### 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+<div align="center">
+
+**Languages** ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+
+**Frameworks & Tools** ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vuedotjs)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=nodedotjs)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+
+</div>
 
 ---
-*Ultima actualización: Diciembre 2025*
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarmansur&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="Oscar's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmansur&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" alt="Top Languages" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscarmansur&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USER">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</p>
