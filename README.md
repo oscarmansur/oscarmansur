@@ -45,8 +45,8 @@ I am a software developer focused on building clean, efficient, and scalable sol
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarmansur&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="Oscar's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmansur&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" alt="Top Languages" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarmansur89&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="Oscar's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmansur89&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" alt="Top Languages" width="41%" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ I am a software developer focused on building clean, efficient, and scalable sol
   <a href="https://linkedin.com/in/TU_USUARIO">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:oscarmansur@gmail.com">
     <img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
