@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I am a software developer focused on building clean, efficient, and scalable solutions. My core expertise lies in **JavaScript**, which I use as my primary tool to bridge the gap between complex problems and elegant code.
+I am a software developer focused on building clean, efficient, and scalable solutions. My primary tool and most used language is **JavaScript**, which I use to bridge the gap between complex problems and elegant code.
 
 - 🔭 **Focus:** Crafting high-quality web applications and exploring modern architectures.
 - ⚡ **Fun Fact:** Beyond the terminal, I’m a huge **cinema** 🎬 buff and an avid **gamer** 🎮.
@@ -20,14 +20,19 @@ I am a software developer focused on building clean, efficient, and scalable sol
 
 <div align="center">
 
-**Languages** ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+**Programming Languages** <br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![C#](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 
-**Frameworks & Tools** ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vuedotjs)
+<br />
+
+**Frameworks & Technologies**
+<br />
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=nodedotjs)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
@@ -51,10 +56,10 @@ I am a software developer focused on building clean, efficient, and scalable sol
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USER">
+  <a href="https://linkedin.com/in/TU_USUARIO">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:tuemail@gmail.com">
     <img src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
