@@ -1,7 +1,9 @@
 # <p align="center">Hi, I'm Oscar Mansur 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Developer;JavaScript+Enthusiast;Movie+Lover+%26+Gamer" alt="Typing SVG" />
+  <a href="https://github.com/oscarmansur">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=600&height=100&lines=const+oscar+=+new+Developer();oscar.mainStack+=+%5B'JavaScript',+'React',+'Vue'%5D;console.log('Ready+to+code!');" alt="Typing Code Animation" />
+  </a>
 </p>
 
 ---
