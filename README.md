@@ -45,8 +45,8 @@ I am a software developer focused on building clean, efficient, and scalable sol
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarmansur89&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="Oscar's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmansur89&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" alt="Top Languages" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarmansur89-3369&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="Oscar's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmansur89-3369&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" alt="Top Languages" width="41%" />
 </p>
 
 <p align="center">
